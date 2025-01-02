@@ -5,4 +5,5 @@
   <li>CSS3
     <li>JavaScript
 </ul>
-<img src="" alt="" />
+<img src="https://github.com/Joel-andrade/conversor-de-moedas/blob/main/assets/conversor-moedas1.png?raw=true" alt="conversor-moedas" width="120px" />
+<a href="https://joel-andrade.github.io/conversor-de-moedas/">clique aqui </a>
